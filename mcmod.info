@@ -1,0 +1,16 @@
+[
+{
+  "modid": "magicalEnergy",
+  "name": "Magical Energy",
+  "description": "In the world of a mysterious energy. It requires care, but by using it, you can do incredible things. And you can be the one who will own all its might!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Skarlet Skay", "Dragon2488"],
+  "credits": "HoneyHime, for making logo",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
