@@ -1,0 +1,12 @@
++# Text
++*.java text
++*.scala text
++*.gradle text
++*.sh text eol=lf
++*.bat text eol=crlf
++*.md text
++
++# Binary
++*.png binary
++*.zip binary
++*.jar binary
