@@ -1,4 +1,4 @@
 Magical-Energy
 ==============
 
-Minecraft Mod.By Skarlet Skay and Dragon2488
+Minecraft Mod.By Skarlet Skay
